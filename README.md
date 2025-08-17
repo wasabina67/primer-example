@@ -1,2 +1,2 @@
 # primer-example
-primer example
+Primer example
